@@ -1,0 +1,40 @@
+.form {
+    width: 70%;
+    justify-content: center;
+    margin: 40px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #616161;
+    font-size: 20px;
+}
+
+input {
+    border: 1px solid #616161;
+    background-color:  #f1f1f1;
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+input::placeholder {
+    font-size: 0.8em;
+}
+
+input[type="date"] {
+    font-size: 0.8em;
+}
+
+label {
+    font-size: 0.9em;
+}
+
+.form button {
+    background-color: #3d8c40;
+    border: 1px solid #616161;
+    border-radius: 5px;
+    color: white;
+    padding: 6px 15px;
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 20px;
+}
