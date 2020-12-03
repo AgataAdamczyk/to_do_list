@@ -1,1 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Simple To do list
+
+🚀  Quick start => npm start 
+
+* Create React App
+* Html, CSS
+* ReactJS
+
